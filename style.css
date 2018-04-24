@@ -98,7 +98,7 @@ h7{ font-size: 22px;
     text-align: center;}
 /* =============================== header ===================================== */
 .header {
-background: url(../bghead.jpg) no-repeat center fixed;
+background: src="bghead.jpg" no-repeat center fixed;
     -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
