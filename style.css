@@ -57,7 +57,7 @@ button {
     
 }
 .myClass {
- background: url(../img/images.jpg) no-repeat center fixed;
+ background: url(../images.jpg) no-repeat center fixed;
     -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
@@ -98,7 +98,7 @@ h7{ font-size: 22px;
     text-align: center;}
 /* =============================== header ===================================== */
 .header {
-background: url(../img/bghead.jpg) no-repeat center fixed;
+background: url(../bghead.jpg) no-repeat center fixed;
     -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
